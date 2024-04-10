@@ -1,0 +1,64 @@
+↪ Tecnologias
+
+    ↪ C++
+
+    ↪ Vulkan
+
+    ↪ SFML
+
+
+↪ Livros de C++
+
+    ↪ "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
+
+    ↪ "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
+
+    ↪ "Accelerated C++" by Andrew Koenig and Barbara E. Moo
+
+    ↪ "Effective C++" by Scott Meyers
+
+    ↪ "C++ Concurrency in Action" by Anthony Williams
+
+    ↪ "Modern C++ Design" by Andrei Alexandrescu
+
+    ↪ "The C++ Programming Language" by Bjarne Stroustrup
+
+    ↪ "Effective Modern C++" by Scott Meyers
+
+
+↪ Livros de performance (C++)
+
+    ↪ "Effective C++: 55 Specific Ways to Improve Your Programs and Designs" by Scott Meyers
+
+    ↪ "C++ High Performance" by Viktor Sehr and Björn Andrist
+
+    ↪ "Optimized C++: Proven Techniques for Heightened Performance" by Kurt Guntheroth
+
+    ↪ "C++ Performance" by Ivan Cukic
+
+    ↪ "C++17 STL Cookbook" by Jacek Galowicz
+
+    ↪ "C++ Performance Tuning" by Rainer Grimm
+
+    ↪ "Pro C++ Performance" by Shane Cook
+
+    ↪ "C++ Templates: The Complete Guide" by David Vandevoorde and Nicolai M. Josuttis
+
+
+↪ Livros de criação de jogos (C++)
+
+    ↪ "Beginning C++ Through Game Programming" by Michael Dawson
+
+    ↪ "SFML Game Development" by Artur Moreira
+
+    ↪ "Programming Game AI by Example" by Mat Buckland
+
+    ↪ "Game Programming Patterns" by Robert Nystrom
+
+    ↪ "C++ Game Development By Example" by Siddharth Shekar
+
+    ↪ "Mastering C++ Game Development" by Mickey MacDonald
+
+    ↪ "SFML Blueprints" by Maxime Barbier
+
+    ↪ "Game Engine Architecture" by Jason Gregory
