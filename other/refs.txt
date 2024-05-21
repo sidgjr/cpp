@@ -1,0 +1,11 @@
+↪ https://www.reddit.com/r/unrealengine/comments/159emez/comment/jtj5mc3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+↪ https://www.tomlooman.com/unrealengine-optimization-talk/
+
+↪ https://gpuopen.com/learn/unreal-engine-performance-guide/
+
+↪ https://www.unrealdirective.com/tag/optimization
+
+↪ https://www.intel.com/content/www/us/en/developer/articles/training/unreal-engine-4-optimization-tutorial-part-1.html
+
+↪ https://unrealartoptimization.github.io/book/

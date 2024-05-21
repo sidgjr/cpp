@@ -1,0 +1,21 @@
+↪ As ferramentas mais utilizadas para programar C++
+
+    ↪ Visual Studio
+
+    ↪ Code::Blocks 
+
+        ↪ Também funciona em Linux
+
+    ↪ Dev-C++
+
+    ↪ MacOS
+
+        ↪ XCode
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
