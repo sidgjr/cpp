@@ -1,0 +1,29 @@
+↪ O que é uma solução? (Visual Studio C++)
+
+↪ Qual a diferença de eu criar um projeto que a solução não está na mesma pasta que o projeto?
+
+↪ O que é MinGW?
+
+↪ Sobre compiladores C++
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 

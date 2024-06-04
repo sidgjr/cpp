@@ -4,7 +4,7 @@
 
     ↪ Code::Blocks 
 
-        ↪ Também funciona em Linux
+        ↪ Também funciona em MacOS e Linux
 
     ↪ Dev-C++
 
@@ -12,10 +12,32 @@
 
         ↪ XCode
 
-↪ 
+
+↪ Visual Studio
+
+    ↪ Continuar sem código
+
+    ↪ Ajuda
+
+        ↪ Sobre 
+
+        ↪ Obs: para ver a versão e produtos instalados
+
+    ↪ Arquivo
+
+        ↪ 1. Novo
+
+        ↪ 2. Projeto
+
+        ↪ 3. Projeto Vazio (C++)
+
+        ↪ 4. Nome do Projeto, e também se a solução vai estar no mesmo diretório
+
 
 ↪ 
 
+
 ↪ 
+
 
 ↪ 
