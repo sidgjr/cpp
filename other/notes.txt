@@ -33,8 +33,20 @@
 
         ↪ 4. Nome do Projeto, e também se a solução vai estar no mesmo diretório
 
+    ↪ Na Solução
 
-↪ 
+        ↪ 1. Arquivos de Recurso
+
+        ↪ 2. Adicionar, Adicionar Novo Item, Arquivo do C++
+
+        ↪ E assim é adicionado um código fonte no projeto
+
+
+↪ Prompt
+
+    ↪ Apertar com o botão direito na aba, Propriedades
+
+        ↪ É possível mudar fonte, cores e outras opçãos 
 
 
 ↪ 

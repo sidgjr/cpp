@@ -6,6 +6,86 @@
 
 ↪ Sobre compiladores C++
 
+↪ O que é uma IDE?
+
+↪ O que é um editor de texto?
+
+↪ O que é um compilador?
+
+↪ Diferença entre arquivos .cpp, .h e arquivos de Classe (VS)
+
+↪ E porque nos Arquivos de Recurso?
+
+↪ #include <iostream>
+
+↪ int main() {}
+
+↪ return 0
+
+↪ system("PAUSE")
+
+↪ Porque terminar com ponto e virgula
+
+↪ Diferença entre Depurar e Iniciar sem Depurar
+
+↪ Compilação
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
+↪ 
+
 ↪ 
 
 ↪ 
